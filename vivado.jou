@@ -1,0 +1,14 @@
+#-----------------------------------------------------------
+# Vivado v2023.2 (64-bit)
+# SW Build 4029153 on Fri Oct 13 20:14:34 MDT 2023
+# IP Build 4028589 on Sat Oct 14 00:45:43 MDT 2023
+# SharedData Build 4025554 on Tue Oct 10 17:18:54 MDT 2023
+# Start of session at: Thu Mar 13 16:52:44 2025
+# Process ID: 14088
+# Current directory: D:/Personal/Facultate/AN2/proiect nexys
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent11084 D:\Personal\Facultate\AN2\proiect nexys\proiect nexys.xpr
+# Log file: D:/Personal/Facultate/AN2/proiect nexys/vivado.log
+# Journal file: D:/Personal/Facultate/AN2/proiect nexys\vivado.jou
+# Running On: acer, OS: Windows, CPU Frequency: 1498 MHz, CPU Physical cores: 4, Host memory: 8350 MB
+#-----------------------------------------------------------
+start_guioopen_project {D:/Personal/Facultate/AN2/proiect nexys/proiect nexys.xpr}uupdate_compile_order -fileset sources_1
